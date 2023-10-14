@@ -1,4 +1,4 @@
-# One-time Workshops
+# Rock Paper Scissors
 
 Time: 1 hour <br>
 Ages: 8th - 12th grade (skews younger)
